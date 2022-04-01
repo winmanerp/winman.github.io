@@ -1,5 +1,5 @@
 ---
-title: WinMan Documentation
+title: Winman.Github.Io
 timezone: UTC
 collections:
   posts:
@@ -8,5 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-cayman
-description: Help and advice on how to use WinMan Cloud
