@@ -1,6 +1,7 @@
 ---
 title: Winman.Github.Io
 timezone: UTC
+theme: jekyll-theme-cayman
 collections:
   posts:
     title: Posts
